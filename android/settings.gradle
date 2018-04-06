@@ -1,0 +1,3 @@
+rootProject.name = 'FitTest'
+
+include ':app'
