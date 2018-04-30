@@ -1,3 +1,3 @@
-rootProject.name = 'FitTest'
+rootProject.name = 'TesteRai'
 
 include ':app'

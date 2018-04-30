@@ -1,4 +1,4 @@
-package com.fittest;
+package com.testerai;
 
 import android.app.Application;
 
